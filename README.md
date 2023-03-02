@@ -1,4 +1,4 @@
-<p>There are four methods to search an array in JavaScript>
+<p>There are four methods to search an array in JavaScript><p>
 * Filter<br />
 * Find<br />
 * Includes<br />
